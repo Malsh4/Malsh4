@@ -5,7 +5,7 @@
 </h1>
 
 
-<img alt="banner" src="https://raw.githubusercontent.com/Malsh4/Malsh4/master/Assets/banne.jpg" align="center"/>
+<img alt="banner" src="https://raw.githubusercontent.com/Malsh4/Malsh4/master/Assets/banner.jpg" align="center"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
