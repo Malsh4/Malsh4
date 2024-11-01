@@ -48,7 +48,7 @@
 
 ### 🗂️ &nbsp;Projects
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Malsh4a&repo=Portfolio)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Malsh4&repo=Portfolio)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Malsh4&repo=Symbology-Generator)
 
 ### 🤝🏻 &nbsp;Connect with Me
