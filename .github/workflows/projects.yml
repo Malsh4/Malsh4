@@ -1,7 +1,12 @@
 name: Update Project Cards
 
 on:
+  schedule:
+    - cron: "0 1 * * *"   # daily
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -15,24 +20,17 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Diagnose
+      - name: Generate projects.svg
         env:
+          GH_USER: ${{ github.repository_owner }}
           GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          REPOS: LankaTransit-177,OnlineBookshop
+        run: python .github/scripts/generate_projects.py
+
+      - name: Commit if changed
         run: |
-          echo "### Diagnosis" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "Script present: $(test -f .github/scripts/generate_projects.py && echo YES || echo 'NO - wrong path')" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "Token length: ${#GH_TOKEN} (0 means the PROFILE_TOKEN secret is missing)" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "Files in repo root:" >> $GITHUB_STEP_SUMMARY
-          echo '```' >> $GITHUB_STEP_SUMMARY
-          ls -R .github >> $GITHUB_STEP_SUMMARY
-          echo '```' >> $GITHUB_STEP_SUMMARY
-          echo "Repo check:" >> $GITHUB_STEP_SUMMARY
-          echo '```' >> $GITHUB_STEP_SUMMARY
-          for r in LankaTransit-177 Battlezik; do
-            code=$(curl -s -o /dev/null -w "%{http_code}" -H "Authorization: Bearer $GH_TOKEN" https://api.github.com/repos/${{ github.repository_owner }}/$r)
-            echo "$r -> HTTP $code"
-          done >> $GITHUB_STEP_SUMMARY
-          echo '```' >> $GITHUB_STEP_SUMMARY
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add projects.svg
+          git diff --staged --quiet || git commit -m "chore: refresh project cards"
+          git push
