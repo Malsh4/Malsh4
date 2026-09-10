@@ -8,57 +8,57 @@
     <rect width="574" height="26" rx="10" fill="#111C33"/><rect y="16" width="574" height="10" fill="#111C33"/>
     <line x1="0" y1="26" x2="574" y2="26" stroke="#1E293B"/>
     <circle cx="16" cy="13" r="3" fill="#22D3EE"/>
-    <text x="28" y="17" font-size="11" fill="#94A3B8">amandi/LankaTransit-177</text>
+    <text x="28" y="17" font-size="11" fill="#94A3B8">Malsh4/LankaTransit-177</text>
     <circle cx="556" cy="13" r="3.5" fill="#334155"/>
     <rect x="18" y="44" width="44" height="44" rx="10" fill="#0A101F" stroke="#1E293B"/>
     <text x="40" y="73" font-size="19" font-weight="700" text-anchor="middle" fill="#A78BFA">L</text>
     <text x="74" y="64" font-size="17" font-weight="700" fill="#F8FAFC">LankaTransit-177_</text>
-    <text x="74" y="84" font-size="11" fill="#94A3B8">Live bus tracking and in-app ticketing</text>
-    <text x="74" y="100" font-size="11" fill="#94A3B8">app with clear route information for</text>
-    <text x="74" y="116" font-size="11" fill="#94A3B8">daily commuters</text>
+    <text x="74" y="84" font-size="11" fill="#94A3B8">A low-cost "Smart-Node" system that provides</text>
+    <text x="74" y="100" font-size="11" fill="#94A3B8">accurate real-time location data and</text>
+    <text x="74" y="116" font-size="11" fill="#94A3B8">privacy-preser</text>
     <g font-size="10">
-    <rect x="74" y="140" width="53" height="20" rx="10" fill="#2E1065" stroke="#4C1D95"/>
-    <text x="100" y="154" text-anchor="middle" fill="#C4B5FD">Figma</text>
-    <rect x="135" y="140" width="97" height="20" rx="10" fill="#083344" stroke="#155E75"/>
-    <text x="184" y="154" text-anchor="middle" fill="#67E8F9">React Native</text>
-    <rect x="240" y="140" width="72" height="20" rx="10" fill="#022C22" stroke="#065F46"/>
-    <text x="276" y="154" text-anchor="middle" fill="#6EE7B7">Supabase</text>
+    <rect x="74" y="140" width="72" height="20" rx="10" fill="#2E1065" stroke="#4C1D95"/>
+    <text x="110" y="154" text-anchor="middle" fill="#C4B5FD">Makefile</text>
+    <rect x="154" y="140" width="40" height="20" rx="10" fill="#083344" stroke="#155E75"/>
+    <text x="174" y="154" text-anchor="middle" fill="#67E8F9">C++</text>
+    <rect x="202" y="140" width="47" height="20" rx="10" fill="#022C22" stroke="#065F46"/>
+    <text x="225" y="154" text-anchor="middle" fill="#6EE7B7">HTML</text>
     </g>
-    <text x="74" y="180" font-size="10.5" fill="#64748B">★ 1 &#160;&#160; updated recently</text>
+    <text x="74" y="180" font-size="10.5" fill="#64748B">★ 0 &#160;&#160; updated today</text>
     <g font-size="10.5" fill="#94A3B8">
-    <circle cx="352" cy="64" r="4" fill="#A78BFA"/><text x="364" y="68">UI/UX Design 60%</text>
-    <circle cx="352" cy="84" r="4" fill="#22D3EE"/><text x="364" y="88">Prototyping 28%</text>
-    <circle cx="352" cy="104" r="4" fill="#10B981"/><text x="364" y="108">Research 12%</text>
+    <circle cx="352" cy="64" r="4" fill="#A78BFA"/><text x="364" y="68">Makefile 87%</text>
+    <circle cx="352" cy="84" r="4" fill="#22D3EE"/><text x="364" y="88">C++ 10%</text>
+    <circle cx="352" cy="104" r="4" fill="#10B981"/><text x="364" y="108">HTML 2%</text>
     </g>
-    <g transform="translate(512,96)"><circle r="31" fill="none" stroke="#1E293B" stroke-width="8"/><circle r="31" fill="none" stroke="url(#ring1)" stroke-width="8" stroke-linecap="round" stroke-dasharray="116.9 77.9" transform="rotate(-90)"/><text y="5" font-size="14" font-weight="700" text-anchor="middle" fill="#F8FAFC">60%</text></g>
+    <g transform="translate(512,96)"><circle r="31" fill="none" stroke="#1E293B" stroke-width="8"/><circle r="31" fill="none" stroke="url(#ring1)" stroke-width="8" stroke-linecap="round" stroke-dasharray="169.5 25.3" transform="rotate(-90)"/><text y="5" font-size="14" font-weight="700" text-anchor="middle" fill="#F8FAFC">87%</text></g>
   </g>
   <g transform="translate(606,0)">
     <rect width="574" height="196" rx="10" fill="#0F172A" stroke="#1E293B"/>
     <rect width="574" height="26" rx="10" fill="#111C33"/><rect y="16" width="574" height="10" fill="#111C33"/>
     <line x1="0" y1="26" x2="574" y2="26" stroke="#1E293B"/>
     <circle cx="16" cy="13" r="3" fill="#22D3EE"/>
-    <text x="28" y="17" font-size="11" fill="#94A3B8">amandi/Battlezik</text>
+    <text x="28" y="17" font-size="11" fill="#94A3B8">Malsh4/OnlineBookshop</text>
     <circle cx="556" cy="13" r="3.5" fill="#334155"/>
     <rect x="18" y="44" width="44" height="44" rx="10" fill="#0A101F" stroke="#1E293B"/>
-    <text x="40" y="73" font-size="19" font-weight="700" text-anchor="middle" fill="#A78BFA">B</text>
-    <text x="74" y="64" font-size="17" font-weight="700" fill="#F8FAFC">Battlezik_</text>
-    <text x="74" y="84" font-size="11" fill="#94A3B8">Real-time esports platform with</text>
-    <text x="74" y="100" font-size="11" fill="#94A3B8">tournament management, matchmaking</text>
-    <text x="74" y="116" font-size="11" fill="#94A3B8">and dynamic prize pools</text>
+    <text x="40" y="73" font-size="19" font-weight="700" text-anchor="middle" fill="#A78BFA">O</text>
+    <text x="74" y="64" font-size="17" font-weight="700" fill="#F8FAFC">OnlineBookshop_</text>
+    <text x="74" y="84" font-size="11" fill="#94A3B8"></text>
+    <text x="74" y="100" font-size="11" fill="#94A3B8"></text>
+    <text x="74" y="116" font-size="11" fill="#94A3B8"></text>
     <g font-size="10">
-    <rect x="74" y="140" width="53" height="20" rx="10" fill="#2E1065" stroke="#4C1D95"/>
-    <text x="100" y="154" text-anchor="middle" fill="#C4B5FD">Figma</text>
-    <rect x="135" y="140" width="66" height="20" rx="10" fill="#083344" stroke="#155E75"/>
-    <text x="168" y="154" text-anchor="middle" fill="#67E8F9">Next.js</text>
-    <rect x="209" y="140" width="72" height="20" rx="10" fill="#022C22" stroke="#065F46"/>
-    <text x="245" y="154" text-anchor="middle" fill="#6EE7B7">Tailwind</text>
+    <rect x="74" y="140" width="85" height="20" rx="10" fill="#2E1065" stroke="#4C1D95"/>
+    <text x="116" y="154" text-anchor="middle" fill="#C4B5FD">JavaScript</text>
+    <rect x="167" y="140" width="47" height="20" rx="10" fill="#083344" stroke="#155E75"/>
+    <text x="190" y="154" text-anchor="middle" fill="#67E8F9">HTML</text>
+    <rect x="222" y="140" width="40" height="20" rx="10" fill="#022C22" stroke="#065F46"/>
+    <text x="242" y="154" text-anchor="middle" fill="#6EE7B7">CSS</text>
     </g>
-    <text x="74" y="180" font-size="10.5" fill="#64748B">★ 1 &#160;&#160; updated recently</text>
+    <text x="74" y="180" font-size="10.5" fill="#64748B">★ 0 &#160;&#160; updated 1y ago</text>
     <g font-size="10.5" fill="#94A3B8">
-    <circle cx="352" cy="64" r="4" fill="#22D3EE"/><text x="364" y="68">UI/UX Design 55%</text>
-    <circle cx="352" cy="84" r="4" fill="#A78BFA"/><text x="364" y="88">Frontend 30%</text>
-    <circle cx="352" cy="104" r="4" fill="#10B981"/><text x="364" y="108">Research 15%</text>
+    <circle cx="352" cy="64" r="4" fill="#A78BFA"/><text x="364" y="68">JavaScript 99%</text>
+    <circle cx="352" cy="84" r="4" fill="#22D3EE"/><text x="364" y="88">HTML 1%</text>
+    <circle cx="352" cy="104" r="4" fill="#10B981"/><text x="364" y="108">CSS 0%</text>
     </g>
-    <g transform="translate(512,96)"><circle r="31" fill="none" stroke="#1E293B" stroke-width="8"/><circle r="31" fill="none" stroke="url(#ring2)" stroke-width="8" stroke-linecap="round" stroke-dasharray="107.1 87.7" transform="rotate(-90)"/><text y="5" font-size="14" font-weight="700" text-anchor="middle" fill="#F8FAFC">55%</text></g>
+    <g transform="translate(512,96)"><circle r="31" fill="none" stroke="#1E293B" stroke-width="8"/><circle r="31" fill="none" stroke="url(#ring2)" stroke-width="8" stroke-linecap="round" stroke-dasharray="192.9 1.9" transform="rotate(-90)"/><text y="5" font-size="14" font-weight="700" text-anchor="middle" fill="#F8FAFC">99%</text></g>
   </g>
 </svg>
