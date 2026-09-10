@@ -80,7 +80,7 @@ always open to tech discussions, feedback, and collaborations.
 <!-- ===== PROJECTS ===== -->
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Malsh4/Malsh4/main/projects.svg" alt="Projects" />
+<img width="100%" src="https://raw.githubusercontent.com/Malsh4/Malsh4/main/projects.svg?v=2" alt="Projects" />
 </div>
 
 <br/>
