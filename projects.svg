@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="196" viewBox="0 0 1180 196" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,monospace">
+  <defs>
+    <linearGradient id="ring1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#A78BFA"/><stop offset="100%" stop-color="#22D3EE"/></linearGradient>
+    <linearGradient id="ring2" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#22D3EE"/><stop offset="100%" stop-color="#10B981"/></linearGradient>
+  </defs>
+  <g transform="translate(0,0)">
+    <rect width="574" height="196" rx="10" fill="#0F172A" stroke="#1E293B"/>
+    <rect width="574" height="26" rx="10" fill="#111C33"/><rect y="16" width="574" height="10" fill="#111C33"/>
+    <line x1="0" y1="26" x2="574" y2="26" stroke="#1E293B"/>
+    <circle cx="16" cy="13" r="3" fill="#22D3EE"/>
+    <text x="28" y="17" font-size="11" fill="#94A3B8">amandi/LankaTransit-177</text>
+    <circle cx="556" cy="13" r="3.5" fill="#334155"/>
+    <rect x="18" y="44" width="44" height="44" rx="10" fill="#0A101F" stroke="#1E293B"/>
+    <text x="40" y="73" font-size="19" font-weight="700" text-anchor="middle" fill="#A78BFA">L</text>
+    <text x="74" y="64" font-size="17" font-weight="700" fill="#F8FAFC">LankaTransit-177_</text>
+    <text x="74" y="84" font-size="11" fill="#94A3B8">Live bus tracking and in-app ticketing</text>
+    <text x="74" y="100" font-size="11" fill="#94A3B8">app with clear route information for</text>
+    <text x="74" y="116" font-size="11" fill="#94A3B8">daily commuters</text>
+    <g font-size="10">
+    <rect x="74" y="140" width="53" height="20" rx="10" fill="#2E1065" stroke="#4C1D95"/>
+    <text x="100" y="154" text-anchor="middle" fill="#C4B5FD">Figma</text>
+    <rect x="135" y="140" width="97" height="20" rx="10" fill="#083344" stroke="#155E75"/>
+    <text x="184" y="154" text-anchor="middle" fill="#67E8F9">React Native</text>
+    <rect x="240" y="140" width="72" height="20" rx="10" fill="#022C22" stroke="#065F46"/>
+    <text x="276" y="154" text-anchor="middle" fill="#6EE7B7">Supabase</text>
+    </g>
+    <text x="74" y="180" font-size="10.5" fill="#64748B">★ 1 &#160;&#160; updated recently</text>
+    <g font-size="10.5" fill="#94A3B8">
+    <circle cx="352" cy="64" r="4" fill="#A78BFA"/><text x="364" y="68">UI/UX Design 60%</text>
+    <circle cx="352" cy="84" r="4" fill="#22D3EE"/><text x="364" y="88">Prototyping 28%</text>
+    <circle cx="352" cy="104" r="4" fill="#10B981"/><text x="364" y="108">Research 12%</text>
+    </g>
+    <g transform="translate(512,96)"><circle r="31" fill="none" stroke="#1E293B" stroke-width="8"/><circle r="31" fill="none" stroke="url(#ring1)" stroke-width="8" stroke-linecap="round" stroke-dasharray="116.9 77.9" transform="rotate(-90)"/><text y="5" font-size="14" font-weight="700" text-anchor="middle" fill="#F8FAFC">60%</text></g>
+  </g>
+  <g transform="translate(606,0)">
+    <rect width="574" height="196" rx="10" fill="#0F172A" stroke="#1E293B"/>
+    <rect width="574" height="26" rx="10" fill="#111C33"/><rect y="16" width="574" height="10" fill="#111C33"/>
+    <line x1="0" y1="26" x2="574" y2="26" stroke="#1E293B"/>
+    <circle cx="16" cy="13" r="3" fill="#22D3EE"/>
+    <text x="28" y="17" font-size="11" fill="#94A3B8">amandi/Battlezik</text>
+    <circle cx="556" cy="13" r="3.5" fill="#334155"/>
+    <rect x="18" y="44" width="44" height="44" rx="10" fill="#0A101F" stroke="#1E293B"/>
+    <text x="40" y="73" font-size="19" font-weight="700" text-anchor="middle" fill="#A78BFA">B</text>
+    <text x="74" y="64" font-size="17" font-weight="700" fill="#F8FAFC">Battlezik_</text>
+    <text x="74" y="84" font-size="11" fill="#94A3B8">Real-time esports platform with</text>
+    <text x="74" y="100" font-size="11" fill="#94A3B8">tournament management, matchmaking</text>
+    <text x="74" y="116" font-size="11" fill="#94A3B8">and dynamic prize pools</text>
+    <g font-size="10">
+    <rect x="74" y="140" width="53" height="20" rx="10" fill="#2E1065" stroke="#4C1D95"/>
+    <text x="100" y="154" text-anchor="middle" fill="#C4B5FD">Figma</text>
+    <rect x="135" y="140" width="66" height="20" rx="10" fill="#083344" stroke="#155E75"/>
+    <text x="168" y="154" text-anchor="middle" fill="#67E8F9">Next.js</text>
+    <rect x="209" y="140" width="72" height="20" rx="10" fill="#022C22" stroke="#065F46"/>
+    <text x="245" y="154" text-anchor="middle" fill="#6EE7B7">Tailwind</text>
+    </g>
+    <text x="74" y="180" font-size="10.5" fill="#64748B">★ 1 &#160;&#160; updated recently</text>
+    <g font-size="10.5" fill="#94A3B8">
+    <circle cx="352" cy="64" r="4" fill="#22D3EE"/><text x="364" y="68">UI/UX Design 55%</text>
+    <circle cx="352" cy="84" r="4" fill="#A78BFA"/><text x="364" y="88">Frontend 30%</text>
+    <circle cx="352" cy="104" r="4" fill="#10B981"/><text x="364" y="108">Research 15%</text>
+    </g>
+    <g transform="translate(512,96)"><circle r="31" fill="none" stroke="#1E293B" stroke-width="8"/><circle r="31" fill="none" stroke="url(#ring2)" stroke-width="8" stroke-linecap="round" stroke-dasharray="107.1 87.7" transform="rotate(-90)"/><text y="5" font-size="14" font-weight="700" text-anchor="middle" fill="#F8FAFC">55%</text></g>
+  </g>
+</svg>
