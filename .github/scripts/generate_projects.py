@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Generate projects.svg from live GitHub data (works with private repos)."""
-import json, os, urllib.request, datetime
+import json, os, urllib.request, urllib.error, datetime
 
 USER   = os.environ.get("GH_USER", "Malsh4")
 TOKEN  = os.environ.get("GH_TOKEN", "")
@@ -20,8 +20,21 @@ if TOKEN:
 
 def get(url):
     req = urllib.request.Request(url, headers=HDRS)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode())
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            raise SystemExit(
+                f"ERROR 404 for {url}\n"
+                "  -> Either the repo name is wrong (check exact spelling/case in REPOS),\n"
+                "     or the token cannot see it. Token present: "
+                f"{'yes' if TOKEN else 'NO - secret PROFILE_TOKEN is missing/empty'}")
+        if e.code in (401, 403):
+            raise SystemExit(
+                f"ERROR {e.code} for {url}\n"
+                "  -> Token invalid, expired, or missing the 'repo' scope.")
+        raise SystemExit(f"ERROR {e.code} for {url}: {e.reason}")
 
 
 def ago(iso):
