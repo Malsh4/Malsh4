@@ -7,7 +7,7 @@
 <!-- ===== TYPING GREETING ===== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=6D28D9&center=true&vCenter=true&width=650&lines=Hey..There!;UI%2FUX+Designer;Frontend+Developer;Software+Engineer;Product+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=6D28D9&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer;Frontend+Developer;Software+Engineer;Product+Designer" alt="Typing SVG" />
 </p>
 
 <!-- ===== ABOUT ME ===== -->
@@ -44,8 +44,8 @@ always open to tech discussions, feedback, and collaborations.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Malsh4&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Malsh4&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Amandi's streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Malsh4&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=700" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Malsh4&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=700" alt="Amandi's streak" />
 </picture>
 
 <br/><br/>
