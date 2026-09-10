@@ -1,68 +1,123 @@
-
-<h1>
-  Hey there, I'm Amandi De Silva!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-<img alt="banner" src="https://raw.githubusercontent.com/Malsh4/Malsh4/master/Assets/banner.jpg" align="center"/>
-
-### 👨🏻‍💻 &nbsp;About Me
-
-- 💡 &nbsp;I am a tech enthusiast who loves to explore new technologies and develop software solutions.
-- 🎓 &nbsp;Currently pursuing a degree in Software Engineering at CINEC Campus, Sri Lanka.
-- 🌱 &nbsp;I am passionate about UI/UX Designing and Programming.
-- 💬 &nbsp;Feel free to reach out to me for any tech-related discussions or collaborations.
-- ✉️ &nbsp;You can contact me at amandi123malsha@gmail.com. I'm always open to new ideas and feedback.
-- 📄 &nbsp;Take a look at my Résumé for more details about my work and experiences.
-
-
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-idea&logoColor=1A73E8)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=FFD43B)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=FF6600)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=000000)
-
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ===== HEADER ===== -->
 
 <p align="center">
-<a href="https://github.com/Malsh4">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malsh4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malsh4&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Amandi%20De%20Silva&fontSize=70&animation=twinkling" alt="Amandi De Silva profile header" />
 </p>
 
-### 🗂️ &nbsp;Projects
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Malsh4&repo=Portfolio)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Malsh4&repo=Symbology-Generator)
-
-### 🤝🏻 &nbsp;Connect with Me
+<!-- ===== TYPING GREETING ===== -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/malsha-amandi-636b5a262/"><img src="https://img.shields.io/badge/-Malsha%20Amandi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="amandi123malsha@gmail.com"><img src="https://img.shields.io/badge/-amandi123malsha@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=6D28D9&center=true&vCenter=true&width=650&lines=Hey+there!;UI%2FUX+Designer;Frontend+Developer;Software+Engineer;Product+Designer" alt="Typing SVG" />
 </p>
 
-### 🐍 &nbsp;pet snake
+<!-- ===== ABOUT ME ===== -->
+
+<p align="center">
+I'm a UI/UX Designer and Frontend Developer reading for a BSc (Hons) in Software Engineering.
+As a UI/UX Engineer intern at Epic Lanka, I design fintech solutions including mobile banking apps, card management systems,
+super apps, and document management systems. I enjoy turning complex problems into simple, user-centered experiences — and I'm
+always open to tech discussions, feedback, and collaborations.
+</p>
+
+<!-- ===== CONNECT ===== -->
+<br>
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osiristape/osiristape/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osiristape/osiristape/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/osiristape/osiristape/output/github-contribution-grid-snake.svg">
-</picture>
+
+<a href="https://www.linkedin.com/in/malsha-amandi-636b5a262/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:m.amandidesilva@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://www.behance.net/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+</a>
+
 </div>
+
+<br/><br/>
+
+<!-- ===== GITHUB STATS ===== -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Malsh4&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Malsh4&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Amandi's streak" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Malsh4&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img align="top" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malsh4&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Amandi's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malsh4&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img align="top" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malsh4&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+
+</div>
+
+<br/>
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Malsh4/Malsh4/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Malsh4/Malsh4/output/snake-light.svg" />
+  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Malsh4/Malsh4/output/snake-light.svg" />
+</picture>
+
+</div>
+
+<!-- ===== END SNAKE ===== -->
+<br/>
+
+<!-- ===== PROJECTS ===== -->
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Malsh4/Malsh4/main/projects.svg" alt="Projects" />
+</div>
+
+<br/>
+<!-- ===== TECH STACK ===== -->
+
+<div align="center">
+
+<!-- Design & creative -->
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+
+<!-- Frameworks & languages -->
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+
+<!-- Markup, styling & 3D -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+
+<!-- Data & backend services -->
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+
+</div>
+<!-- ===== FOOTER ===== -->
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Profile footer wave"/>
+</p>
