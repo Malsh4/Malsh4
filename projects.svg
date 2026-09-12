@@ -24,7 +24,7 @@
     <rect x="202" y="140" width="47" height="20" rx="10" fill="#022C22" stroke="#065F46"/>
     <text x="225" y="154" text-anchor="middle" fill="#6EE7B7">HTML</text>
     </g>
-    <text x="74" y="180" font-size="10.5" fill="#64748B">★ 0 &#160;&#160; updated today</text>
+    <text x="74" y="180" font-size="10.5" fill="#64748B">★ 0 &#160;&#160; updated yesterday</text>
     <g font-size="10.5" fill="#94A3B8">
     <circle cx="352" cy="64" r="4" fill="#A78BFA"/><text x="364" y="68">Makefile 87%</text>
     <circle cx="352" cy="84" r="4" fill="#22D3EE"/><text x="364" y="88">C++ 10%</text>
